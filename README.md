@@ -18,6 +18,18 @@
 | `skills/` | 分析流程与术语口径 |
 | `docs/` | 设计文档 |
 
+## 许可协议
+
+本项目采用 [Functional Source License 1.1, MIT Future License (FSL-1.1-MIT)](LICENSE.md)：
+
+- ✅ 个人使用、公司内部使用、学习、非商业研究、修改：都可以
+- ❌ 不得将本软件用于与本项目竞争的商业产品或服务
+- ⏳ 每个版本发布满 **2 年**后，自动转为 MIT 协议
+
+如需商业授权，请联系作者。
+
+依赖的第三方组件（如 [pi](https://github.com/earendil-works/pi)，MIT）遵循各自的协议。
+
 ## 免责声明
 
 本项目仅用于个人研究与学习，不构成任何投资建议。
